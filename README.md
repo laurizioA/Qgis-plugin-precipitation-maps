@@ -2,13 +2,6 @@
 
 📌 **Licença:** [GPLv3](https://gnu.org) | 🌍 **Compatibilidade:** [QGIS 3.0+](https://qgis.org) | 🐍 **Linguagem:** [Python 3.8+](https://python.org)
 
-<div id="badges">
-  <img src="https://shields.io" alt="GPLv3 License"/>
-  <img src="https://shields.io" alt="QGIS 3.0+"/>
-  <img src="https://shields.io" alt="Python 3.8+"/>
-</div>
-
-
 Complemento (*plugin*) para o ecossistema QGIS desenvolvido para automatizar o download, processamento geoespacial e a geração de mapas temáticos especializados de precipitação utilizando os dados do sistema **MERGE (CPTEC/INPE)**.
 
 O objetivo principal é eliminar o esforço manual de aquisição e álgebra de mapas de grandes séries temporais, transformando dados brutos de satélite/pluviômetros em produtos cartográficos prontos para tomada de decisão ambiental e agrícola.
