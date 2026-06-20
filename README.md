@@ -2,7 +2,7 @@
 
 [![License: GPL v3](https://shields.io)](https://gnu.org)
 [![QGIS](https://shields.io)](https://qgis.org)
-[![Python](https://shields.io)](https://python.org)
+[![Python](https://shields.io)](https://www.python.org)
 
 Complemento (*plugin*) para o ecossistema QGIS desenvolvido para automatizar o download, processamento geoespacial e a geração de mapas temáticos especializados de precipitação utilizando os dados do sistema **MERGE (CPTEC/INPE)**.
 
