@@ -1,8 +1,10 @@
 # QGIS Precipitation Maps (MERGE/INPE) 
 
-[![License: GPL v3](https://shields.io)](https://gnu.org)
-[![QGIS](https://shields.io)](https://qgis.org)
-[![Python](https://shields.io)](https://www.python.org)
+<div id="badges">
+  <img src="https://shields.io" alt="GPLv3 License"/>
+  <img src="https://shields.io" alt="QGIS 3.0+"/>
+  <img src="https://shields.io" alt="Python 3.8+"/>
+</div>
 
 Complemento (*plugin*) para o ecossistema QGIS desenvolvido para automatizar o download, processamento geoespacial e a geração de mapas temáticos especializados de precipitação utilizando os dados do sistema **MERGE (CPTEC/INPE)**.
 
