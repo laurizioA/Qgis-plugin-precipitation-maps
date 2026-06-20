@@ -1,6 +1,6 @@
 # QGIS Precipitation Maps (MERGE/INPE) 
 
-📌 <strong>Licença:</strong> <a href="https://gnu.org" target="_blank" rel="noopener noreferrer">GPLv3</a> | 🌍 <strong>Compatibilidade:</strong> <a href="https://qgis.org" target="_blank" rel="noopener noreferrer">QGIS 3.0+</a> | 🐍 <strong>Linguagem:</strong> <a href="https://www.python.org" target="_blank" rel="noopener noreferrer">Python 3.8+</a>
+📌 **Licença:** [GPLv3](https://gnu.org) | 🌍 **Compatibilidade:** [QGIS 3.0+](https://qgis.org) | 🐍 **Linguagem:** [Python 3.8+](https://python.org)
 
 Complemento (*plugin*) para o ecossistema QGIS desenvolvido para automatizar o download, processamento geoespacial e a geração de mapas temáticos especializados de precipitação utilizando os dados do sistema **MERGE (CPTEC/INPE)**.
 
@@ -56,4 +56,4 @@ Este projeto está licenciado sob a **GNU General Public License v3.0 (GPLv3)** 
 * **Laurizio Emanuel Ribeiro Alves**
 * *Analista em Ciência e Tecnologia (Meteorologia)*
 * Doutor em Meteorologia
-<a href="http://lattes.cnpq.br/6746982852507340" target="_blank" rel="noopener noreferrer">Currículo Lattes</a>
+* [Currículo Lattes](http://lattes.cnpq.br/6746982852507340) 
